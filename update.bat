@@ -1,0 +1,1 @@
+winget update --all --include-unknown && winget upgrade --all --include-unknown && "C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeC2RClient.exe" /update user && start ms-settings:windowsupdate && start ms-windows-store://downloadsandupdates
